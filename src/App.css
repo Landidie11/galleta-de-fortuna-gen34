@@ -44,7 +44,7 @@ h1 {
 
  .app {
   min-height: 100vh;
-  background-image: url('../assets/fondo1.png');
+  background-image: url('../assets/fondo{bgApp}.png');
   background-position: center;
   background-size: cover;
  }
